@@ -19,7 +19,7 @@ const versions =
   node: '6.9.4',
   npm: '3.10.10',
   brew: '1.1.',
-  ruby: '2.3..3.p222',
+  ruby: '2.4.1.p111',
   wget: '1.18',
   jxcore: '0.3.1.10',
   androidHome: ' ',
