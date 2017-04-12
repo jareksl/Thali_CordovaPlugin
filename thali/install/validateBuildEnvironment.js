@@ -19,7 +19,7 @@ const versions =
   node: '6.9.4',
   npm: '3.10.10',
   brew: '1.1.',
-  ruby: '2.4.1.p111',
+  ruby: '2.4.1p111',
   wget: '1.18',
   jxcore: '0.3.1.10',
   androidHome: ' ',
@@ -28,7 +28,7 @@ const versions =
   // We don't have an easy way to identify the version of the support libraries
   // we have but if they were installed recently enough then they will have
   // what we need.
-  androidSupportLibraries: '41.0.0',
+  androidSupportLibraries: '47.0.0',
   python: '2.7.10',
   cordova: '6.5.0',
   java: '1.8.0_121',
